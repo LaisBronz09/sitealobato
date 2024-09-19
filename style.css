@@ -14,3 +14,20 @@
 .footer{
     background-color: rgba(0, 238, 255, 0.63);
 }
+.boton{
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    padding: 10px 20px;
+    background-color: aquamarine;
+    color: beige;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+.boton:hover{
+    background-color: antiquewhite;
+}
+.boton:active{
+    font-size: 20px;
+}
